@@ -5,5 +5,3 @@ language: go
 go:
   - 1.15
   - 1.14
-script:
-  - go tests -v ./...
